@@ -1,4 +1,4 @@
-<img src="https://github.com/UnamSanctam/SilentCryptoMiner/blob/master/SilentCryptoMiner.png?raw=true">
+<img src="https://github.com/UnamSanctam/SilentXMRMiner/blob/master/SilentXMRMiner.png?raw=true">
 
 # SilentCryptoMiner v3.1.0 - Miner for ETH, ETC, XMR, RTM & many more
 
