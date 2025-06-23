@@ -76,7 +76,7 @@ You can find the web panel that the miner officially supports here: [UnamWebPane
 
 ## Changelog
 
-### 3.1.0 (31/10/2022)
+### 3.9.0 (23/06/2025)
 * Changed process creation from undocumented API calls to direct system calls
 * Added process parent spoofing with token impersonation when creating processes
 * Created custom process parameter creation to avoid API calls
